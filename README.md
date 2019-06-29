@@ -10,3 +10,4 @@ JS ES6
 #### 참여자
 
 [@jinmay](https://github.com/jinmay)
+[@taem98](https://github.com/taem98)
