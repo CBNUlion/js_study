@@ -180,7 +180,7 @@ RED === ORANGE // false
     - 유효하지 않은 식별자 : 계산된 멤버 접근 연산자 : `[]`
     - 심볼 프로퍼티 : `[]`
         - 심볼 프로퍼티는 문자열로 들어가지 않는다.
-<img src = "js_study\taemi\chapter3\img\symbol.PNG">
+<img src = "https://github.com/taem98/js_study/blob/master/taemi/chapter3/img/symbol.PNG?raw=true">
 
 > "size" 로 들어가지 않음
 
