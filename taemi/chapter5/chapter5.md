@@ -106,6 +106,7 @@ console.log('stopped at ${n}');
 - typeof 연산자는 null 을 object로 판단 : 버그
 - 배열과 배열 아닌 객체도 제대로 구분하지 못함
 <img src= "https://woovictory.github.io/img/typeof.png">
+
 - typeof Symbol() => Symbol()
     = ES6에서 새로 생김
 - typeof 는 *연산자*이므로 괄호x
