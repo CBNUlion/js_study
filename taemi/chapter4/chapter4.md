@@ -135,7 +135,12 @@ for(let i =0; i < hand.length; i ++)
 
 # 참고
 - `프로토타입` 뭔지 찾아보기
+    - [참고 블로그](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
+    
 - for in 을 사용할 때 프로토타입
 - for in 과 for of 의 차이점 명확하게 정리하기
+    - [참고 블로그](https://jsdev.kr/t/for-in-vs-for-of/2938)
+
 - 어떤 특성 때문에 왜 그렇게 쓰는지 알면 더 좋음 (심화)
 - veloperty ->> 누구든지 하는 리액트
+
