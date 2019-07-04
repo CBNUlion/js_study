@@ -4,8 +4,9 @@
 
 #### Environment
 
-JS ES5
-JS ES6
+ES5
+<br>
+ES6
 
 #### 참여자
 
