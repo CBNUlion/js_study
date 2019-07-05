@@ -16,6 +16,6 @@ ES6
 [@changhyun/kayden](https://github.com/changhyun/kayden)
 [@DJ-Yang](https://github.com/DJ-Yang)
 [@Mithumbsup](https://github.com/Mithumbsup)
-[@gijin noh](https://github.com/gijin noh)
+[@nohgijin](https://github.com/nohgijin)
 [@shinhaeran](https://github.com/shinhaeran)
 [@EunjiShin](https://github.com/EunjiShin)
