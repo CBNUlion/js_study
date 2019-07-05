@@ -12,3 +12,10 @@ ES6
 
 [@jinmay](https://github.com/jinmay)
 [@taem98](https://github.com/taem98)
+[@choisaywhy](https://github.com/choisaywhy)
+[@changhyun/kayden](https://github.com/changhyun/kayden)
+[@DJ-Yang](https://github.com/DJ-Yang)
+[@Mithumbsup](https://github.com/Mithumbsup)
+[@gijin noh](https://github.com/gijin noh)
+[@shinhaeran](https://github.com/shinhaeran)
+[@EunjiShin](https://github.com/EunjiShin)
