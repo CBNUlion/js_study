@@ -1,0 +1,17 @@
+<script>
+function a() {
+    console.log("I'm a!");
+}
+
+function b() {
+    a();
+    throw ('haha');
+}
+
+function c() {
+    b();
+    console.log('after b()')
+}
+
+c();
+</script>
