@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+ <h1>My first application</h1>
+ <p>Welcome to <i>Learning JavaScript, 3rd Edition</i>.</p> 
+ 
+ <!-- url을 통해 [cdn]에서 서비스하는 라이브러리 링크 [속도가 빨라지나 인터넷에서만 연결가능/ 오프라인때는 내려받아야함] 
+     >  라이브러리를 먼저 링크하는 습관이 중요함-->
+
+ <!--라이브러리를 링크하는 순서는 상관이 없지만 웹개발에서 제이쿼리가 빠지는 일은 없음으로 제이쿼리먼저 링크하는 습관이 중요함-->
+ <!--제이쿼리 =  클라이언트 스크립트 라이브러리-->
+ <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+ <!--Paper.js = 그래픽을 추가하기 위한 라이브러리-->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/paper.js/0.9.25/paper-full.min.js"></script>
+
+ 
+ <canvas id="mainCanvas"></canvas>
+ <!--html 캔버스 요소 준비/ js 구문을 처리하기 위한 준비-->
+
+
+
+<script src="main.js"></script>
+ <!--자바스트립트 내용을 html로 불러오는 링크 // 성능을 높이기 위해서 바디의 맨 아래에 위치하는 것이 좋음-->
+</body>
+</html>

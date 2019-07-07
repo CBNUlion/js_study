@@ -1,0 +1,10 @@
+/* 캔버스가 페이지에서 잘 보이도록 main.css 수정 */
+
+
+/* html 요소에 너비와 높이를 설정하고 검은색 테두리 추가 */
+#mainCanvas{
+    width: 400px;
+    height: 400px;
+    border: solid 1px black;
+
+}
