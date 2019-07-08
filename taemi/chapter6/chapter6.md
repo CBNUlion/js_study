@@ -397,8 +397,5 @@ updateBruce1949("singer", "songwriter");
 //  bruce -> {name : "Bruce", birthYear:1949, occupation: "singer, songwriter}
 ```
 
-
-
-
 # Q
 헷갈리고 처음 보는 문법이 많아서 주의했어야 함
