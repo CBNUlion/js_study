@@ -106,9 +106,13 @@ const y = 3;
 
 
 
-
-
-
-
-
-
+const o = {
+    name ='w',
+    greetBackwards: function(){
+        const self = this;
+        function getReverseName(){
+            let nameBackwards = '';
+            for(let i= self.name.length-1; i>=)
+        }
+    }
+}
