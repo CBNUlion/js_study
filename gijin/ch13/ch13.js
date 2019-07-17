@@ -123,3 +123,11 @@ function sumOfSquares(arr){
 function newSummer(f){
     return arr=>sum(arr,f);
 }
+<<<<<<< HEAD
+
+function fact(n){
+    if(n===1) return 1;
+    return n*fact(n-1);
+}
+=======
+>>>>>>> 5f43d065428aad9474bc56cc09915a1e939b98c0
